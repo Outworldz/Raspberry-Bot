@@ -1,0 +1,5 @@
+/home/pi/libopenmetaverse/OpenMetaverseTypes/obj/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/home/pi/libopenmetaverse/bin/OpenMetaverseTypes.dll.mdb
+/home/pi/libopenmetaverse/bin/OpenMetaverseTypes.dll
+/home/pi/libopenmetaverse/OpenMetaverseTypes/obj/Debug/OpenMetaverseTypes.dll
+/home/pi/libopenmetaverse/OpenMetaverseTypes/obj/Debug/OpenMetaverseTypes.dll.mdb

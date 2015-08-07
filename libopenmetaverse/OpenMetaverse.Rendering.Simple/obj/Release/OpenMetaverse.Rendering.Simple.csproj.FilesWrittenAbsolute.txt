@@ -1,0 +1,3 @@
+/home/pi/libopenmetaverse/OpenMetaverse.Rendering.Simple/obj/Release/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/home/pi/libopenmetaverse/bin/OpenMetaverse.Rendering.Simple.dll
+/home/pi/libopenmetaverse/OpenMetaverse.Rendering.Simple/obj/Release/OpenMetaverse.Rendering.Simple.dll

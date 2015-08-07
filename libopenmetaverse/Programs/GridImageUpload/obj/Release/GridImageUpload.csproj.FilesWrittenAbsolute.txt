@@ -1,0 +1,5 @@
+/home/pi/libopenmetaverse/Programs/GridImageUpload/obj/Release/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/home/pi/libopenmetaverse/Programs/GridImageUpload/obj/Release/GridImageUpload.frmGridImageUpload.resources
+/home/pi/libopenmetaverse/Programs/GridImageUpload/obj/Release/GridImageUpload.Properties.Resources.resources
+/home/pi/libopenmetaverse/bin/GridImageUpload.exe
+/home/pi/libopenmetaverse/Programs/GridImageUpload/obj/Release/GridImageUpload.exe

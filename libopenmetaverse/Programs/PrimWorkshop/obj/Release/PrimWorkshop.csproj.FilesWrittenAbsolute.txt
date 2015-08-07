@@ -1,0 +1,6 @@
+/home/pi/libopenmetaverse/Programs/PrimWorkshop/obj/Release/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/home/pi/libopenmetaverse/Programs/PrimWorkshop/obj/Release/PrimWorkshop.frmBrowser.resources
+/home/pi/libopenmetaverse/Programs/PrimWorkshop/obj/Release/PrimWorkshop.frmPrimWorkshop.resources
+/home/pi/libopenmetaverse/Programs/PrimWorkshop/obj/Release/PrimWorkshop.Properties.Resources.resources
+/home/pi/libopenmetaverse/bin/PrimWorkshop.exe
+/home/pi/libopenmetaverse/Programs/PrimWorkshop/obj/Release/PrimWorkshop.exe

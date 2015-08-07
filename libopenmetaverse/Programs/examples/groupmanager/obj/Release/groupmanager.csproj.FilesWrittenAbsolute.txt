@@ -1,0 +1,5 @@
+/home/pi/libopenmetaverse/Programs/examples/groupmanager/obj/Release/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/home/pi/libopenmetaverse/Programs/examples/groupmanager/obj/Release/groupmanager.frmGroupInfo.resources
+/home/pi/libopenmetaverse/Programs/examples/groupmanager/obj/Release/groupmanager.frmGroupManager.resources
+/home/pi/libopenmetaverse/bin/groupmanager.exe
+/home/pi/libopenmetaverse/Programs/examples/groupmanager/obj/Release/groupmanager.exe

@@ -1,0 +1,3 @@
+/home/pi/libopenmetaverse/OpenMetaverse.StructuredData/obj/Release/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/home/pi/libopenmetaverse/bin/OpenMetaverse.StructuredData.dll
+/home/pi/libopenmetaverse/OpenMetaverse.StructuredData/obj/Release/OpenMetaverse.StructuredData.dll

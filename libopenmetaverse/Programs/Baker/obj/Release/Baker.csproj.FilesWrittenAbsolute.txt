@@ -1,0 +1,4 @@
+/home/pi/libopenmetaverse/Programs/Baker/obj/Release/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/home/pi/libopenmetaverse/Programs/Baker/obj/Release/Baker.frmBaker.resources
+/home/pi/libopenmetaverse/bin/Baker.exe
+/home/pi/libopenmetaverse/Programs/Baker/obj/Release/Baker.exe

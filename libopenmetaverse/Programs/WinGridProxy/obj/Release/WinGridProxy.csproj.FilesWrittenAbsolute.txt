@@ -1,0 +1,7 @@
+/home/pi/libopenmetaverse/Programs/WinGridProxy/obj/Release/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/home/pi/libopenmetaverse/Programs/WinGridProxy/obj/Release/WinGridProxy.AboutBox1.resources
+/home/pi/libopenmetaverse/Programs/WinGridProxy/obj/Release/WinGridProxy.FormPluginManager.resources
+/home/pi/libopenmetaverse/Programs/WinGridProxy/obj/Release/WinGridProxy.FormSessionSearch.resources
+/home/pi/libopenmetaverse/Programs/WinGridProxy/obj/Release/WinGridProxy.FormWinGridProxy.resources
+/home/pi/libopenmetaverse/bin/WinGridProxy.exe
+/home/pi/libopenmetaverse/Programs/WinGridProxy/obj/Release/WinGridProxy.exe

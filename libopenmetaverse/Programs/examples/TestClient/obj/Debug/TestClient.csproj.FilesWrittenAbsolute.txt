@@ -1,0 +1,5 @@
+/home/pi/libopenmetaverse/Programs/examples/TestClient/obj/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/home/pi/libopenmetaverse/bin/TestClient.exe.mdb
+/home/pi/libopenmetaverse/bin/TestClient.exe
+/home/pi/libopenmetaverse/Programs/examples/TestClient/obj/Debug/TestClient.exe
+/home/pi/libopenmetaverse/Programs/examples/TestClient/obj/Debug/TestClient.exe.mdb

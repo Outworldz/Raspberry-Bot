@@ -1,0 +1,3 @@
+/home/pi/libopenmetaverse/Programs/mapgenerator/obj/Release/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/home/pi/libopenmetaverse/bin/mapgenerator.exe
+/home/pi/libopenmetaverse/Programs/mapgenerator/obj/Release/mapgenerator.exe

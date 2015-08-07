@@ -1,0 +1,5 @@
+/home/pi/libopenmetaverse/Programs/GridProxyGUI/obj/Release/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/home/pi/libopenmetaverse/Programs/GridProxyGUI/obj/Release/GridProxyGUI.libomv.png
+/home/pi/libopenmetaverse/Programs/GridProxyGUI/obj/Release/GridProxyGUI.wgp-logo.png
+/home/pi/libopenmetaverse/bin/GridProxyGUI.exe
+/home/pi/libopenmetaverse/Programs/GridProxyGUI/obj/Release/GridProxyGUI.exe

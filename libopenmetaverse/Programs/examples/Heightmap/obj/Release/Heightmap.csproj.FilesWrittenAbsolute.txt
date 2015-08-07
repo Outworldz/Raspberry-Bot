@@ -1,0 +1,4 @@
+/home/pi/libopenmetaverse/Programs/examples/Heightmap/obj/Release/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/home/pi/libopenmetaverse/Programs/examples/Heightmap/obj/Release/Heightmap.frmHeightmap.resources
+/home/pi/libopenmetaverse/bin/Heightmap.exe
+/home/pi/libopenmetaverse/Programs/examples/Heightmap/obj/Release/Heightmap.exe

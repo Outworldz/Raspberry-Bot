@@ -1,0 +1,3 @@
+/home/pi/libopenmetaverse/CSJ2K/obj/Release/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/home/pi/libopenmetaverse/bin/CSJ2K.dll
+/home/pi/libopenmetaverse/CSJ2K/obj/Release/CSJ2K.dll

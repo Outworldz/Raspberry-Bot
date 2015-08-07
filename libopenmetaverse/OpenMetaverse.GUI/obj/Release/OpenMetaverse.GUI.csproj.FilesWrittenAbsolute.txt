@@ -1,0 +1,3 @@
+/home/pi/libopenmetaverse/OpenMetaverse.GUI/obj/Release/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/home/pi/libopenmetaverse/bin/OpenMetaverse.GUI.dll
+/home/pi/libopenmetaverse/OpenMetaverse.GUI/obj/Release/OpenMetaverse.GUI.dll

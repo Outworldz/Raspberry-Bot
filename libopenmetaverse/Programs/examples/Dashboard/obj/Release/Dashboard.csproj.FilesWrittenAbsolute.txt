@@ -1,0 +1,4 @@
+/home/pi/libopenmetaverse/Programs/examples/Dashboard/obj/Release/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/home/pi/libopenmetaverse/Programs/examples/Dashboard/obj/Release/Dashboard.Dashboard.resources
+/home/pi/libopenmetaverse/bin/Dashboard.exe
+/home/pi/libopenmetaverse/Programs/examples/Dashboard/obj/Release/Dashboard.exe

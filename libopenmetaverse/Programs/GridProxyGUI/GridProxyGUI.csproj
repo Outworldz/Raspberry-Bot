@@ -1,0 +1,179 @@
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="4.0">
+  <PropertyGroup>
+    <ProjectType>Local</ProjectType>
+    <ProductVersion>10.0.20506</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{2C03AFCB-3836-4DEF-B85C-46538CF05AA0}</ProjectGuid>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ApplicationIcon>libomv.ico</ApplicationIcon>
+    <AssemblyKeyContainerName>
+    </AssemblyKeyContainerName>
+    <AssemblyName>GridProxyGUI</AssemblyName>
+    <DefaultClientScript>JScript</DefaultClientScript>
+    <DefaultHTMLPageLayout>Grid</DefaultHTMLPageLayout>
+    <DefaultTargetSchema>IE50</DefaultTargetSchema>
+    <DelaySign>false</DelaySign>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder></AppDesignerFolder>
+    <RootNamespace>GridProxyGUI</RootNamespace>
+    <StartupObject></StartupObject>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <AllowUnsafeBlocks>True</AllowUnsafeBlocks>
+    <BaseAddress>285212672</BaseAddress>
+    <CheckForOverflowUnderflow>False</CheckForOverflowUnderflow>
+    <ConfigurationOverrideFile>
+    </ConfigurationOverrideFile>
+    <DefineConstants>TRACE;VISUAL_STUDIO</DefineConstants>
+    <DocumentationFile></DocumentationFile>
+    <DebugSymbols>False</DebugSymbols>
+    <FileAlignment>4096</FileAlignment>
+    <Optimize>True</Optimize>
+    <OutputPath>../../bin/</OutputPath>
+    <RegisterForComInterop>False</RegisterForComInterop>
+    <RemoveIntegerChecks>False</RemoveIntegerChecks>
+    <TreatWarningsAsErrors>False</TreatWarningsAsErrors>
+    <WarningLevel>4</WarningLevel>
+    <NoStdLib>False</NoStdLib>
+    <NoWarn>1591,1574,0419,0618</NoWarn>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <AllowUnsafeBlocks>True</AllowUnsafeBlocks>
+    <BaseAddress>285212672</BaseAddress>
+    <CheckForOverflowUnderflow>False</CheckForOverflowUnderflow>
+    <ConfigurationOverrideFile>
+    </ConfigurationOverrideFile>
+    <DefineConstants>TRACE;DEBUG;VISUAL_STUDIO</DefineConstants>
+    <DocumentationFile></DocumentationFile>
+    <DebugSymbols>True</DebugSymbols>
+    <FileAlignment>4096</FileAlignment>
+    <Optimize>False</Optimize>
+    <OutputPath>../../bin/</OutputPath>
+    <RegisterForComInterop>False</RegisterForComInterop>
+    <RemoveIntegerChecks>False</RemoveIntegerChecks>
+    <TreatWarningsAsErrors>False</TreatWarningsAsErrors>
+    <WarningLevel>4</WarningLevel>
+    <NoStdLib>False</NoStdLib>
+    <NoWarn>1591,1574,0419,0618</NoWarn>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System">
+        <Name>System</Name>
+    </Reference>
+    <Reference Include="System.Xml">
+        <Name>System.Xml</Name>
+    </Reference>
+    <Reference Include="System.Drawing">
+        <Name>System.Drawing</Name>
+    </Reference>
+    <Reference Include="System.Windows.Forms">
+        <Name>System.Windows.Forms</Name>
+    </Reference>
+    <Reference Include="XMLRPC">
+        <Name>XMLRPC</Name>
+      <HintPath>/home/pi/libopenmetaverse/bin/XMLRPC.dll</HintPath>
+    </Reference>
+    <Reference Include="log4net">
+        <Name>log4net</Name>
+      <HintPath>/home/pi/libopenmetaverse/bin/log4net.dll</HintPath>
+    </Reference>
+    <Reference Include="atk-sharp">
+        <Name>atk-sharp</Name>
+    </Reference>
+    <Reference Include="gdk-sharp">
+        <Name>gdk-sharp</Name>
+    </Reference>
+    <Reference Include="glade-sharp">
+        <Name>glade-sharp</Name>
+    </Reference>
+    <Reference Include="glib-sharp">
+        <Name>glib-sharp</Name>
+    </Reference>
+    <Reference Include="gtk-sharp">
+        <Name>gtk-sharp</Name>
+    </Reference>
+    <Reference Include="pango-sharp">
+        <Name>pango-sharp</Name>
+    </Reference>
+    <Reference Include="Mono.Posix">
+        <Name>Mono.Posix</Name>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="../../OpenMetaverse/OpenMetaverse.csproj">
+      <Name>OpenMetaverse</Name>
+      <Project>{79B00055-DD90-4AE8-8349-D07F58486D41}</Project>
+      <Package>{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</Package>
+    </ProjectReference>
+    <ProjectReference Include="../../OpenMetaverseTypes/OpenMetaverseTypes.csproj">
+      <Name>OpenMetaverseTypes</Name>
+      <Project>{F1D4B5FB-F1A4-4B8C-AC5E-D589DEAC5C11}</Project>
+      <Package>{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</Package>
+    </ProjectReference>
+    <ProjectReference Include="../../OpenMetaverse.StructuredData/OpenMetaverse.StructuredData.csproj">
+      <Name>OpenMetaverse.StructuredData</Name>
+      <Project>{11736C6B-3480-44B3-8CCA-4E53A10E56C8}</Project>
+      <Package>{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</Package>
+    </ProjectReference>
+    <ProjectReference Include="../GridProxy/GridProxy.csproj">
+      <Name>GridProxy</Name>
+      <Project>{D06D7572-D9BA-4A5D-91EF-405EA7B334AD}</Project>
+      <Package>{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</Package>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="About.cs">
+    </Compile>
+    <Compile Include="FilterScroller.cs">
+    </Compile>
+    <Compile Include="IgeMacMenuGlobal.cs">
+    </Compile>
+    <Compile Include="MainWindow.Persistance.cs">
+    </Compile>
+    <Compile Include="MainWindow.cs">
+    </Compile>
+    <Compile Include="MessageScroller.cs">
+    </Compile>
+    <Compile Include="Options.cs">
+    </Compile>
+    <Compile Include="PlatformDetection.cs">
+    </Compile>
+    <Compile Include="PluginsScroller.cs">
+    </Compile>
+    <Compile Include="Program.cs">
+    </Compile>
+    <Compile Include="ProxyLogger.cs">
+    </Compile>
+    <Compile Include="ProxyManager.cs">
+    </Compile>
+    <Compile Include="SessionTypes.cs">
+    </Compile>
+    <Compile Include="Properties/AssemblyInfo.cs">
+    </Compile>
+    <Compile Include="gtk-gui/GridProxyGUI.About.cs">
+    </Compile>
+    <Compile Include="gtk-gui/MainWindow.cs">
+    </Compile>
+    <Compile Include="gtk-gui/generated.cs">
+    </Compile>
+    <EmbeddedResource Include="libomv.png">
+    </EmbeddedResource>
+    <EmbeddedResource Include="wgp-logo.png">
+    </EmbeddedResource>
+    <Content Include="libomv.ico">
+    </Content>
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSHARP.Targets" />
+  <PropertyGroup>
+    <PreBuildEvent>
+    </PreBuildEvent>
+    <PostBuildEvent>
+    </PostBuildEvent>
+  </PropertyGroup>
+</Project>

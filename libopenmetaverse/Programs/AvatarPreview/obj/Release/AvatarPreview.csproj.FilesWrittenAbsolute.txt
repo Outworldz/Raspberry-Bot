@@ -1,0 +1,5 @@
+/home/pi/libopenmetaverse/Programs/AvatarPreview/obj/Release/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/home/pi/libopenmetaverse/Programs/AvatarPreview/obj/Release/AvatarPreview.frmAvatar.resources
+/home/pi/libopenmetaverse/Programs/AvatarPreview/obj/Release/AvatarPreview.Properties.Resources.resources
+/home/pi/libopenmetaverse/bin/AvatarPreview.exe
+/home/pi/libopenmetaverse/Programs/AvatarPreview/obj/Release/AvatarPreview.exe

@@ -1,0 +1,3 @@
+/home/pi/libopenmetaverse/Programs/examples/PacketDump/obj/Release/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/home/pi/libopenmetaverse/bin/PacketDump.exe
+/home/pi/libopenmetaverse/Programs/examples/PacketDump/obj/Release/PacketDump.exe
